@@ -1,1 +1,6 @@
-jk
+modificacion 1
+
+modificación 2 -- ao entrar en vi pulsar esc
+		  para salir sin guardar a modificación, esc :u
+		  para guardar modificación esc:w
+		  para salir esc:q
